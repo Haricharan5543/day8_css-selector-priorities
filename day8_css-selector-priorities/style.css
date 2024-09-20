@@ -1,0 +1,45 @@
+#topHeading{
+    background-color: #0000ff;
+    width:250px;
+    border-radius: 20rem;
+    border: 5px solid #000000;
+    text-align: center;
+    
+}
+
+img{
+    width: 300px;
+}
+
+h1{
+    background-color: aquamarine;
+    width:250px;
+    border-radius: 20rem;
+    border: 5px solid chocolate;
+    text-align: center;
+
+}
+
+.wildanimals{
+    background-color: beige;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+.seaanimals{
+    background-color:aqua;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.birds{
+    background-color:blue;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.spacing{
+    margin: 25px;
+    border-radius: 80px;
+}
